@@ -9,3 +9,4 @@ echo $list
 echo ${list[@]}
 
 echo ${list[3]}
+
