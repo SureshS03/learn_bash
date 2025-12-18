@@ -1,0 +1,1 @@
+Mostly Bash is over, Try to learn commands like AWK, SED etc.. and command is lot so find and use 
