@@ -12,9 +12,10 @@ uptimefunc(){
 This lap uptime is ${up}
 and its been since ${since}
 EOF
+    echo "my name is $1" #this will take a one agurment while calling the functions
 }
 
-uptimefunc
+uptimefunc Suresh
 
 echo $up
 echo $since
